@@ -1,5 +1,5 @@
 def print_hello():
     print("Hello World")
 
-print_hello()
-print_hello()
+n=int(input())
+print_hello()*n
